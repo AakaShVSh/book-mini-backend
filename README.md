@@ -1,1 +1,1 @@
-# book-mini-backend
+# cars-app-minibackend
